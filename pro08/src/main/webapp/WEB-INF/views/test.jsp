@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-git test(master)
+git test  (master)
 conflict 유도
 </body>
 </html>
