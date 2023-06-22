@@ -8,5 +8,9 @@
 </head>
 <body>
 	testpage(develop1)-실습입니다.
+	
+	patch1
+	patch2
+	patch3
 </body>
 </html>
