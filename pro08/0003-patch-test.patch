@@ -1,0 +1,27 @@
+From 86c2d83c98353c2d036a3ad1d57eef58c260e70d Mon Sep 17 00:00:00 2001
+From: Youngil2 <slayerskorea@naver.com>
+Date: Thu, 22 Jun 2023 16:19:19 +0900
+Subject: [PATCH 3/3] patch-test
+
+---
+ pro08/src/main/webapp/WEB-INF/views/develop.jsp | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+diff --git a/pro08/src/main/webapp/WEB-INF/views/develop.jsp b/pro08/src/main/webapp/WEB-INF/views/develop.jsp
+index 26f16de..eed484c 100644
+--- a/pro08/src/main/webapp/WEB-INF/views/develop.jsp
++++ b/pro08/src/main/webapp/WEB-INF/views/develop.jsp
+@@ -8,5 +8,9 @@
+ </head>
+ <body>
+ 	testpage(develop1)-실습입니다.
++	
++	patch1
++	patch2
++	patch3
+ </body>
+ </html>
+\ No newline at end of file
+-- 
+2.41.0.windows.1
+

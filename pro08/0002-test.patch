@@ -1,0 +1,25 @@
+From 975ad5829cbb0aace24d16e3c7e873c4802114e0 Mon Sep 17 00:00:00 2001
+From: Youngil2 <slayerskorea@naver.com>
+Date: Thu, 22 Jun 2023 16:11:18 +0900
+Subject: [PATCH 2/2] test
+
+---
+ pro08/src/main/webapp/WEB-INF/views/develop.jsp | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/pro08/src/main/webapp/WEB-INF/views/develop.jsp b/pro08/src/main/webapp/WEB-INF/views/develop.jsp
+index 9074806..26f16de 100644
+--- a/pro08/src/main/webapp/WEB-INF/views/develop.jsp
++++ b/pro08/src/main/webapp/WEB-INF/views/develop.jsp
+@@ -7,6 +7,6 @@
+ <title>Insert title here</title>
+ </head>
+ <body>
+-	testpage(develop1)
++	testpage(develop1)-실습입니다.
+ </body>
+ </html>
+\ No newline at end of file
+-- 
+2.41.0.windows.1
+
