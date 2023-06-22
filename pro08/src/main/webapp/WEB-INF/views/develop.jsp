@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	testpage(develop1)
+	testpage(develop1)-실습입니다.
 </body>
 </html>
